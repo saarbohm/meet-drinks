@@ -1,0 +1,220 @@
+header {
+    font-family: 'filson', sans-serif;
+}
+
+body {
+    font-family: 'filson', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Filson', sans-serif;
+    margin: auto;
+    text-align: center;
+}
+
+img {
+    max-width: 50%;
+    width: 50%;
+    margin-left: 0%;
+
+}
+
+p {
+    font-family: 'filson', sans-serif;
+    margin: 10%;
+    text-align: center;
+}
+
+.m img {
+    max-width: 100%;
+    width: 100%;
+
+}
+
+head h1 {
+    font-size: small;
+}
+
+.opening {
+    color: #95D3E5;
+    font-weight: bold;
+}
+
+.md {
+    font-family: 'Filson', sans-serif;
+    width: 75%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.logo {
+    max-width: 50%;
+    width: 50%;
+    margin-left: 25%;
+}
+
+#paginawho {
+    background-image: url('../img/terras.png');
+}
+
+#paginamenu {
+    background-image: url('../img/bg1.png');
+}
+
+#paginaindex {
+    background-image: url('../img/huis4.png');
+    background-size: 110%;
+}
+
+#paginabar {
+    background-image: url('../img/heibg.png');
+}
+
+.menu {
+    font-family: 'filson', sans-serif;
+    /* width: 50%; */
+    margin: 27%;
+    background-color: #F9D96E;
+    font-weight: bold;
+    border-radius: 40px;
+    /* width: 100px; */
+    padding: 15px 30px;
+
+}
+
+footer {
+    max-width: 100%;
+    width: 200%;
+    margin-left: 20%;
+    margin-top: 0%;
+}
+
+.roest {
+    width: 100%;
+    max-width: 100%;
+}
+
+.febbar {
+    display: flex;
+}
+
+.feb {
+    max-width: 100%;
+    width: 100%;
+    margin-left: 0%;
+}
+
+
+.bar {
+    max-width: 100%;
+    width: 100%;
+    margin-right: 0%;
+}
+
+.dress {
+    width: 100%;
+    max-width: 100%;
+}
+
+.tbar {
+    color: rgb(230, 99, 124);
+}
+
+.heineken {
+    margin-left: 25%;
+}
+
+.mainbar {
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.stads {
+    color: #4E80BD
+}
+
+.foto1 {
+    display: flex;
+    justify-content: space-around
+}
+
+.naam1 {
+    display: flex;
+}
+
+.foto2 {
+    display: flex;
+}
+
+.naam2 {
+    display: flex;
+
+}
+
+.foto3 {
+    display: flex;
+}
+
+.naam3 {
+    margin-right: 60%;
+    font-weight: bold;
+    font-size: 1.8em;
+    color: rgb(230, 99, 124)
+}
+
+.jiro {
+    margin-left: 20%;
+    font-weight: bold;
+    font-size: 1.8em;
+    color: #F9D96E;
+}
+
+.julia {
+    margin-left: 20%;
+    color: #4E80BD;
+    font-weight: bold;
+    font-size: 1.8em;
+}
+
+.geel {
+    color: #F9D96E;
+}
+
+.bente {
+    font-weight: bold;
+    font-size: 1.8em;
+    color: rgb(230, 99, 124);
+}
+
+.faye {
+    font-weight: bold;
+    font-size: 1.8em;
+    color: #95D3E5;
+}
+
+.route {
+    font-family: 'filson', sans-serif;
+    /* width: 60%; */
+    margin: 10%;
+    background-color: #F9D96E;
+    font-weight: bold;
+    border-radius: 40px;
+    /* width: 100px; */
+    padding: 15px 30px;
+    text-align: center;
+}
+
+.pijl {
+    max-width: 15%;
+    max-height: 15%;
+    margin-top: 5%;
+    margin-left: 20%;
+
+}
+
+.map {
+    max-width: 100%;
+    max-height: 80%;
+}
